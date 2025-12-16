@@ -7,4 +7,8 @@ This parameter is proportional to the effective number of relativistic species, 
 
 Some of the key nuclear reaction rates are also updated, which affect the primordial helium and deuterium abundances ($Y_\mathrm{P}$ and D/H).
 
+We include a python interface, "alter_stiff.py", for applications of parameter inferences (e.g., to be incorporated into a Cobaya pipeline).
+
+---------------
+
 See the README_AlterBBN file for documatation of the original AlterBBN 2.2 code.
